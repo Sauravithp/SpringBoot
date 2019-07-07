@@ -1,0 +1,20 @@
+2019-07-07 15:25:37 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Starting LoggingSetupApplication on f1soft-sauravi with PID 6387 (/home/f1soft/Documents/cogent-workspace/springboot/logging-setup/target/classes started by f1soft in /home/f1soft/Documents/cogent-workspace/springboot)
+2019-07-07 15:25:37 [restartedMain] INFO  c.f.l.LoggingSetupApplication -The following profiles are active: dev
+2019-07-07 15:25:41 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-07 15:25:41 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Started LoggingSetupApplication in 4.557 seconds (JVM running for 5.578)
+2019-07-07 15:25:47 [http-nio-7071-exec-1] ERROR c.f.l.controller.EmployeeController -ERROR LOG
+2019-07-07 15:25:49 [http-nio-7071-exec-1] INFO  c.f.l.s.s.EmployeeServiceImpl -INFO LOG
+2019-07-07 15:33:25 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Starting LoggingSetupApplication on f1soft-sauravi with PID 6745 (/home/f1soft/Documents/cogent-workspace/springboot/logging-setup/target/classes started by f1soft in /home/f1soft/Documents/cogent-workspace/springboot)
+2019-07-07 15:33:25 [restartedMain] INFO  c.f.l.LoggingSetupApplication -The following profiles are active: dev
+2019-07-07 15:33:29 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-07 15:33:29 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Started LoggingSetupApplication in 4.572 seconds (JVM running for 5.448)
+2019-07-07 15:33:44 [http-nio-7071-exec-1] ERROR c.f.l.controller.EmployeeController -ERROR LOG
+2019-07-07 15:33:45 [http-nio-7071-exec-1] INFO  c.f.l.s.s.EmployeeServiceImpl -INFO LOG
+2019-07-07 15:34:12 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Starting LoggingSetupApplication on f1soft-sauravi with PID 6886 (/home/f1soft/Documents/cogent-workspace/springboot/logging-setup/target/classes started by f1soft in /home/f1soft/Documents/cogent-workspace/springboot)
+2019-07-07 15:34:12 [restartedMain] INFO  c.f.l.LoggingSetupApplication -The following profiles are active: dev
+2019-07-07 15:34:15 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-07 15:34:15 [restartedMain] INFO  c.f.l.LoggingSetupApplication -Started LoggingSetupApplication in 4.492 seconds (JVM running for 5.439)
+2019-07-07 15:34:20 [http-nio-7071-exec-1] ERROR c.f.l.controller.EmployeeController -ERROR LOG
+2019-07-07 15:34:22 [http-nio-7071-exec-1] INFO  c.f.l.s.s.EmployeeServiceImpl -INFO LOG
+2019-07-07 15:34:55 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-07 15:34:57 [http-nio-7071-exec-1] ERROR c.f.l.controller.EmployeeController -ERROR LOG
